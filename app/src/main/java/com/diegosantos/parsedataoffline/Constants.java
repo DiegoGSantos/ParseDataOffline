@@ -5,7 +5,7 @@ package com.diegosantos.parsedataoffline;
  */
 public class Constants {
 
-    public static final String KEY1 = "HanwEIebq5ZUgb9JLIXby8aYzX0RPFcozp2a6J0z";
-    public static final String KEY2 = "XGJAxR2jUrOyLiQw3WPpMwfHWZ0ozvsLaHBqB0mn";
+    public static final String KEY1 = "";
+    public static final String KEY2 = "";
 
 }
